@@ -8,11 +8,13 @@ To view the live site: https://www.lipslut.com/
 
 ![alt text](https://github.com/SKaplan01/lipslut2.0/blob/master/src/images/lipslutGif.gif "Lipslut Gif")
 
+
 ## Dynamic Components
 
 As interns for working on lipslut.com, we updated the navigation bar so that, as the product team adds new batches of lipstick to the CMS, the navbar will automatically render an accurate dropdown menu with all lipsticks currently for sale. We also added dynamic components for the product details page, ingredients list, and voting popup.
 
 ![alt text](https://github.com/SKaplan01/lipslut2.0/blob/master/src/images/ls_ingredients.gif "Lipslut Ingredients")
+
 
 ## Data Visualization
 
