@@ -6,4 +6,4 @@ For an overview of the project structure please refer to the [Gatsby documentati
 
 To view the live site: https://www.lipslut.com/
 
-![alt text](https://github.com/SKaplan01/lipslut2.0/blob/master/images/lipslutGif.gif "Lipslut Gif")
+![alt text](https://github.com/SKaplan01/lipslut2.0/blob/master/src/images/lipslutGif.gif "Lipslut Gif")
